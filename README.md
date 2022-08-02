@@ -29,6 +29,8 @@ RAN Slicing, we used Slicesim, an open-source software.
 3. As the no of clients increases, the average number of connected clients decreases because each base station has a limited bandwidth allocated, exhaustion of the bandwidth makes no further clients connect to the base station.
 
 
+![Screenshot (21)](https://user-images.githubusercontent.com/63770668/182276114-38a693dd-05a1-4079-a36a-3370c1e8edfe.png)
+
 ##  Conclusion
 We ran simulations with different numbers of clients and different mobility patterns to
 examine how crucial parameters like connected client ratio, total bandwidth utilization, load
